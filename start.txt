@@ -1,4 +1,1 @@
-master
-master1
-before first commit
-before socond commit
+before 1 commit
