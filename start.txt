@@ -6,3 +6,4 @@ New commit1
 срфтпув ыусщтв
 >>>>>>> origin/second
 New commit
+New commit1
